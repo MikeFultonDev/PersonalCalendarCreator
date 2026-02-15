@@ -269,101 +269,250 @@ Can be done anytime - while watching TV, during breaks, etc.
 
 ---
 
-## Exercise References and Demonstrations
+## Exercise Instructions and Techniques
 
 ### Lower Body Exercises
 
-**Squats and Variations:**
-- [Bodyweight Squats](https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/squat/vid-20084810) - Mayo Clinic video demonstration
-- [Goblet Squats](https://www.acefitness.org/resources/everyone/exercise-library/373/goblet-squat/) - ACE Fitness guide
-- [Bulgarian Split Squats](https://www.acefitness.org/resources/everyone/exercise-library/135/bulgarian-split-squat/) - ACE Fitness guide
-- [Deep Squat Hold](https://www.acefitness.org/resources/everyone/exercise-library/135/bodyweight-squat/) - ACE Fitness bodyweight squat
-- [Single-Leg Squats](https://www.acefitness.org/resources/everyone/exercise-library/135/single-leg-squat/) - ACE Fitness progression
+**Bodyweight Squats:**
+- Stand with feet shoulder-width apart, toes slightly out
+- Keep chest up, core engaged
+- Lower by bending knees and pushing hips back (like sitting in chair)
+- Go as low as comfortable, ideally thighs parallel to ground
+- Push through heels to stand back up
+- Keep knees tracking over toes
 
-**Lunges:**
-- [Walking Lunges](https://www.acefitness.org/resources/everyone/exercise-library/56/walking-lunge/) - ACE Fitness guide
-- [Reverse Lunges](https://www.acefitness.org/resources/everyone/exercise-library/55/reverse-lunge/) - ACE Fitness tutorial
+**Goblet Squats:**
+- Hold dumbbell vertically at chest, elbows pointing down
+- Perform squat as above
+- The weight helps with balance and depth
 
-**Glutes and Hamstrings:**
-- [Glute Bridge](https://www.acefitness.org/resources/everyone/exercise-library/49/glute-bridge/) - ACE Fitness guide
-- [Single-Leg Romanian Deadlift](https://www.acefitness.org/resources/everyone/exercise-library/237/single-leg-romanian-deadlift/) - ACE Fitness tutorial
+**Bulgarian Split Squats:**
+- Stand 2-3 feet in front of bench/chair
+- Place top of one foot on bench behind you
+- Lower down by bending front knee
+- Keep front knee over ankle, torso upright
+- Push through front heel to stand
+- Excellent for single-leg strength
+
+**Deep Squat Hold:**
+- Squat down as deep as possible
+- Hold position for 30 seconds
+- Keep heels on ground, chest up
+- Improves ankle and hip mobility
+
+**Walking Lunges:**
+- Step forward with one leg
+- Lower hips until both knees at 90 degrees
+- Front knee over ankle, back knee near floor
+- Push through front heel to step forward with other leg
+- Continue alternating
+
+**Glute Bridges:**
+- Lie on back, knees bent, feet flat on floor
+- Push through heels, lift hips toward ceiling
+- Squeeze glutes at top, hold 2 seconds
+- Lower slowly
+- Keep core engaged throughout
+
+**Single-Leg Romanian Deadlifts:**
+- Stand on one leg, slight knee bend
+- Hinge at hip, reach other leg back
+- Keep back straight, reach toward floor
+- Feel stretch in hamstring
+- Return to standing
+- Excellent for balance and hamstring strength
 
 **Step-Ups:**
-- [Step-Up Exercise](https://www.acefitness.org/resources/everyone/exercise-library/58/step-up/) - ACE Fitness guide
+- Place one foot on step/stair
+- Push through heel to lift body up
+- Step down with control
+- Alternate legs or complete all reps one side
 
 **Wall Sits:**
-- [Wall Sit](https://www.acefitness.org/resources/everyone/exercise-library/135/wall-sit/) - ACE Fitness tutorial
+- Lean back against wall
+- Slide down until thighs parallel to ground
+- Hold position, keep back flat against wall
+- Builds quad endurance
 
-### Floor-to-Stand Specific
+### Floor-to-Stand Techniques
 
-**Getting Up From Floor:**
-- [Getting Up From the Floor](https://www.nia.nih.gov/health/exercise-and-physical-activity/sample-exercises-balance) - National Institute on Aging
-- [Floor Transfer Techniques](https://www.cdc.gov/steadi/pdf/STEADI-Brochure-StayIndependent-508.pdf) - CDC guide (PDF)
-- [Sitting Rising Test Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3501725/) - Research article on longevity predictor
+**Method 1: Kneeling-to-Standing (Easiest)**
+1. From sitting, roll to hands and knees
+2. Bring one foot forward (lunge position)
+3. Push through front leg to stand
+4. Reverse to sit back down
+
+**Method 2: Cross-Legged Stand (Intermediate)**
+1. Sit cross-legged on floor
+2. Lean forward, shift weight to feet
+3. Rock forward and push up through legs
+4. Use momentum to help
+
+**Method 3: Side-Sit Method**
+1. From sitting, roll to one hip
+2. Get to hands and knees
+3. Bring one foot forward
+4. Push up to standing
+
+**Turkish Get-Up (Advanced):**
+- Complex movement from lying to standing
+- Multiple positions: lying, elbow, hand, lunge, stand
+- Practice each position separately first
 
 ### Upper Body Exercises
 
-**Push Exercises:**
-- [Push-Ups](https://www.acefitness.org/resources/everyone/exercise-library/380/push-up/) - ACE Fitness all variations
-- [Dumbbell Shoulder Press](https://www.acefitness.org/resources/everyone/exercise-library/347/dumbbell-shoulder-press/) - ACE Fitness guide
+**Push-Ups:**
+- Start in plank position, hands shoulder-width
+- Lower body as one unit until chest near floor
+- Push back up
+- Modifications: on knees, against wall, on elevated surface
 
-**Pull Exercises:**
-- [Resistance Band Rows](https://www.acefitness.org/resources/everyone/exercise-library/135/resistance-band-row/) - ACE Fitness technique
-- [Bent-Over Dumbbell Rows](https://www.acefitness.org/resources/everyone/exercise-library/16/bent-over-row/) - ACE Fitness tutorial
+**Dumbbell Shoulder Press:**
+- Stand or sit, dumbbells at shoulder height
+- Press weights overhead until arms straight
+- Lower with control
+- Keep core engaged
 
-**Arms:**
-- [Bicep Curls](https://www.acefitness.org/resources/everyone/exercise-library/254/biceps-curl/) - ACE Fitness proper form
-- [Tricep Extensions](https://www.acefitness.org/resources/everyone/exercise-library/133/overhead-triceps-extension/) - ACE Fitness guide
+**Resistance Band Rows:**
+- Anchor band at chest height
+- Pull handles toward chest, squeeze shoulder blades
+- Keep elbows close to body
+- Slow, controlled movement
+
+**Bent-Over Dumbbell Rows:**
+- Hinge at hips, back flat, knees slightly bent
+- Let dumbbells hang
+- Pull weights to ribcage, squeeze shoulder blades
+- Lower with control
+
+**Bicep Curls:**
+- Stand, dumbbells at sides, palms forward
+- Curl weights toward shoulders
+- Keep elbows stationary
+- Lower slowly
+
+**Tricep Extensions:**
+- Hold one dumbbell overhead with both hands
+- Lower behind head by bending elbows
+- Extend arms back up
+- Keep elbows pointing forward
 
 ### Core Exercises
 
-**Stability Work:**
-- [Plank Exercise](https://www.acefitness.org/resources/everyone/exercise-library/41/front-plank/) - ACE Fitness variations
-- [Bird Dog](https://www.acefitness.org/resources/everyone/exercise-library/201/bird-dog/) - ACE Fitness guide
-- [Dead Bug Exercise](https://www.acefitness.org/resources/everyone/exercise-library/135/dead-bug/) - ACE Fitness core stability
-- [Core Exercises](https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/core-strength/sls-20076575) - Mayo Clinic slideshow
+**Planks:**
+- Forearms on ground, body in straight line
+- Engage core, don't let hips sag
+- Hold position
+- Breathe normally
+
+**Bird Dogs:**
+- Start on hands and knees
+- Extend opposite arm and leg
+- Keep back flat, core engaged
+- Hold, then switch sides
+
+**Dead Bugs:**
+- Lie on back, arms up, knees bent 90 degrees
+- Lower opposite arm and leg toward floor
+- Keep lower back pressed to floor
+- Return and switch sides
+
+**Hollow Body Hold:**
+- Lie on back, press lower back to floor
+- Lift shoulders and legs slightly off ground
+- Arms extended overhead
+- Hold position
 
 ### Balance Exercises
 
-**Balance Training:**
-- [Balance Exercises](https://www.nia.nih.gov/health/exercise-and-physical-activity/sample-exercises-balance) - National Institute on Aging comprehensive guide
-- [Fall Prevention Exercises](https://www.cdc.gov/steadi/pdf/STEADI-Exercise-Brochure-508.pdf) - CDC guide (PDF)
-- [Balance Training](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/balance-exercises/art-20046388) - Mayo Clinic guide
+**Single-Leg Balance:**
+- Stand on one leg
+- Hold 30 seconds
+- Progress: close eyes, reach in different directions
+- Use wall for support if needed
+
+**Heel-to-Toe Walking:**
+- Walk in straight line
+- Place heel of one foot directly in front of toes of other
+- Like walking on tightrope
+- Use wall for balance if needed
 
 ### Hand Exercises
 
-**Hand Mobility and Strength:**
-- [Hand Exercises for Arthritis](https://www.arthritis.org/health-wellness/healthy-living/physical-activity/other-activities/hand-exercises-for-people-with-arthritis) - Arthritis Foundation comprehensive guide
-- [Hand and Wrist Exercises](https://www.mayoclinic.org/diseases-conditions/arthritis/multimedia/hand-exercises/sls-20076887) - Mayo Clinic slideshow
-- [Grip Strength Exercises](https://www.healthline.com/health/hand-grip-exercises) - Healthline tutorial
+**Finger Stretches:**
+- Spread fingers wide, hold 10 seconds
+- Make tight fist, hold 5 seconds
+- Repeat 10 times
 
-### Stretching and Mobility
+**Wrist Circles:**
+- Rotate wrists in circles
+- 10 circles each direction
 
-**Hip Mobility:**
-- [Hip Stretches](https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/stretching/sls-20076525) - Mayo Clinic guide
-- [Hip Flexibility Exercises](https://www.healthline.com/health/hip-mobility-exercises) - Healthline comprehensive guide
+**Thumb Touches:**
+- Touch thumb to each fingertip
+- Repeat 3 times
 
-**Full Body:**
-- [Stretching Exercises](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931) - Mayo Clinic complete guide
-- [Flexibility Exercises for Older Adults](https://www.nia.nih.gov/health/exercise-and-physical-activity/sample-exercises-flexibility) - National Institute on Aging
-- [Chair Exercises](https://www.nia.nih.gov/health/exercise-and-physical-activity/chair-exercises-older-adults) - National Institute on Aging
+**Stress Ball Squeezes:**
+- Squeeze ball firmly, hold 5 seconds
+- Release slowly
+- 15-20 repetitions
 
-### Walking and Cardio
+**Prayer Stretch:**
+- Press palms together in front of chest
+- Lower hands toward waist
+- Feel stretch in wrists and forearms
+- Hold 30 seconds
 
-**Walking Techniques:**
-- [Walking for Exercise](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261) - Mayo Clinic comprehensive guide
-- [Walking Tips](https://www.cdc.gov/physicalactivity/walking/index.htm) - CDC walking resources
+### Stretching Techniques
 
-### Additional Resources
+**Hip Flexor Stretch:**
+- Kneel on one knee (lunge position)
+- Push hips forward
+- Feel stretch in front of back hip
+- Hold 30 seconds each side
 
-**General Fitness for Longevity:**
-- [Exercises for Longevity](https://www.youtube.com/watch?v=jN0pRAqiUJU) - Peter Attia's approach
-- [Strength Training for Seniors](https://www.youtube.com/watch?v=5nF6CPPbKHY) - Comprehensive guide
-- [Mobility Routine for Older Adults](https://www.youtube.com/watch?v=qULTwquOuT4) - Daily practice
+**Deep Squat Hold:**
+- Squat as deep as possible
+- Hold position 30 seconds
+- Improves hip and ankle mobility
 
-**Websites:**
-- [National Institute on Aging - Exercise](https://www.nia.nih.gov/health/exercise-and-physical-activity) - Evidence-based guidelines
-- [Mayo Clinic - Strength Training](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670) - Comprehensive information
-- [Arthritis Foundation - Hand Exercises](https://www.arthritis.org/health-wellness/healthy-living/physical-activity/other-activities/hand-exercises-for-people-with-arthritis) - Specific hand routines
+**Dynamic Stretching (Pre-Workout):**
+- Leg swings, arm circles
+- Walking lunges with twist
+- High knees, butt kicks
+- Keeps muscles warm
+
+**Static Stretching (Post-Workout):**
+- Hold each stretch 30 seconds
+- Don't bounce
+- Breathe deeply
+- Focus on major muscle groups used
+
+### Walking Technique
+
+**Proper Form:**
+- Stand tall, shoulders back
+- Look forward, not down
+- Swing arms naturally
+- Roll through foot: heel to toe
+- Take comfortable strides
+
+**Interval Walking:**
+- 2 minutes brisk pace
+- 1 minute easy pace
+- Repeat pattern
+- Builds cardiovascular fitness
+
+### Important Resources
+
+**For Video Demonstrations:**
+- Search YouTube for: "[exercise name] proper form"
+- Look for channels: Physical Therapists, Certified Trainers
+- Watch multiple videos to see different angles
+
+**Reliable Websites:**
+- National Institute on Aging: www.nia.nih.gov/health/exercise-and-physical-activity
+- CDC Physical Activity: www.cdc.gov/physicalactivity
+- Arthritis Foundation: www.arthritis.org (for hand exercises)
 
 **Safety Note:** Always consult with your healthcare provider before starting a new exercise program, especially if you have any existing health conditions or concerns.
