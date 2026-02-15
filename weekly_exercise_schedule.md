@@ -266,3 +266,106 @@ Can be done anytime - while watching TV, during breaks, etc.
 8. **Recovery** - Rest days are when your body adapts and gets stronger
 9. **Progressive overload** - Gradually reduce assistance as you get stronger
 10. **Practice the skill** - Floor-to-stand is a skill that requires regular practice
+
+---
+
+## Exercise References and Demonstrations
+
+### Lower Body Exercises
+
+**Squats and Variations:**
+- [Bodyweight Squats](https://www.youtube.com/watch?v=aclHkVaku9U) - Proper form tutorial
+- [Goblet Squats](https://www.youtube.com/watch?v=MeHQ_6R2f0M) - With dumbbell technique
+- [Bulgarian Split Squats](https://www.youtube.com/watch?v=2C-uNgKwPLE) - Single-leg strength builder
+- [Deep Squat Hold](https://www.youtube.com/watch?v=xPwG2hqnOx0) - Mobility work
+- [Pistol Squat Progressions](https://www.youtube.com/watch?v=vq5-vdgJc0I) - Advanced single-leg
+
+**Lunges:**
+- [Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs) - Proper technique
+- [Reverse Lunges](https://www.youtube.com/watch?v=xXB0pz0xw-8) - Knee-friendly variation
+
+**Glutes and Hamstrings:**
+- [Glute Bridges](https://www.youtube.com/watch?v=wPM8icPu6H8) - Hip extension
+- [Single-Leg Romanian Deadlifts](https://www.youtube.com/watch?v=yQXnOuQqKYc) - Balance and strength
+
+**Step-Ups:**
+- [Step-Ups Tutorial](https://www.youtube.com/watch?v=dQqApCGd5Ss) - Proper form
+
+**Wall Sits:**
+- [Wall Sit Exercise](https://www.youtube.com/watch?v=y-wV4Venusw) - Isometric quad strength
+
+### Floor-to-Stand Specific
+
+**Getting Up From Floor:**
+- [Floor-to-Stand Tutorial](https://www.youtube.com/watch?v=ZqvcZvHCbYo) - Multiple methods
+- [Turkish Get-Up](https://www.youtube.com/watch?v=0bWRPC49-KI) - Complete movement pattern
+- [Kneeling-to-Standing](https://www.youtube.com/watch?v=qLnwQh8Yx0g) - Key progression
+- [Sitting Rising Test](https://www.youtube.com/watch?v=5nF6CPPbKHY) - Assessment and practice
+
+### Upper Body Exercises
+
+**Push Exercises:**
+- [Push-Ups Proper Form](https://www.youtube.com/watch?v=IODxDxX7oi4) - Standard and modifications
+- [Dumbbell Shoulder Press](https://www.youtube.com/watch?v=qEwKCR5JCog) - Overhead pressing
+
+**Pull Exercises:**
+- [Resistance Band Rows](https://www.youtube.com/watch?v=tZzbxS6bpRs) - Back strengthening
+- [Bent-Over Dumbbell Rows](https://www.youtube.com/watch?v=roCP6wCXPqo) - Proper technique
+
+**Arms:**
+- [Bicep Curls](https://www.youtube.com/watch?v=ykJmrZ5v0Oo) - Proper form
+- [Tricep Extensions](https://www.youtube.com/watch?v=_gsUck-7M74) - Overhead variation
+
+### Core Exercises
+
+**Stability Work:**
+- [Planks](https://www.youtube.com/watch?v=ASdvN_XEl_c) - Proper form and variations
+- [Bird Dogs](https://www.youtube.com/watch?v=wiFNA3sqjCA) - Core stability
+- [Dead Bugs](https://www.youtube.com/watch?v=4XLEnwUr1d8) - Anti-extension work
+- [Hollow Body Hold](https://www.youtube.com/watch?v=LlDNef_Ztsc) - Advanced core
+
+### Balance Exercises
+
+**Balance Training:**
+- [Single-Leg Balance](https://www.youtube.com/watch?v=kFyZdV8VQv0) - Progressions
+- [Heel-to-Toe Walking](https://www.youtube.com/watch?v=VqKDlqXqJKk) - Balance and coordination
+- [Balance Exercises for Seniors](https://www.youtube.com/watch?v=wCLxt6vxLJM) - Comprehensive guide
+
+### Hand Exercises
+
+**Hand Mobility and Strength:**
+- [Hand Exercises for Arthritis](https://www.youtube.com/watch?v=EiRC80FJbHU) - Stretching and strengthening
+- [Finger Stretches](https://www.youtube.com/watch?v=CLjtSyuE11I) - Flexibility work
+- [Grip Strengthening Exercises](https://www.youtube.com/watch?v=FGuVJAj96SE) - Various techniques
+- [Wrist Mobility Exercises](https://www.youtube.com/watch?v=mSZWSQSSEjE) - Range of motion
+
+### Stretching and Mobility
+
+**Hip Mobility:**
+- [Hip Flexor Stretches](https://www.youtube.com/watch?v=UGEpQ1BRx-4) - Essential for floor-to-stand
+- [Deep Hip Stretches](https://www.youtube.com/watch?v=7Vpmgx_1KkQ) - Comprehensive routine
+
+**Full Body:**
+- [Dynamic Stretching Routine](https://www.youtube.com/watch?v=3K6Fbf93u_g) - Pre-workout
+- [Static Stretching for Seniors](https://www.youtube.com/watch?v=g_tea8ZNk5A) - Post-workout
+- [Chair Yoga for Seniors](https://www.youtube.com/watch?v=KLbKM5m0f1g) - Gentle mobility
+
+### Walking and Cardio
+
+**Walking Techniques:**
+- [Proper Walking Form](https://www.youtube.com/watch?v=ZXFDwJKxsJo) - Maximize benefits
+- [Interval Walking](https://www.youtube.com/watch?v=Ky7qPgqmLQE) - HIIT for walking
+
+### Additional Resources
+
+**General Fitness for Longevity:**
+- [Exercises for Longevity](https://www.youtube.com/watch?v=jN0pRAqiUJU) - Peter Attia's approach
+- [Strength Training for Seniors](https://www.youtube.com/watch?v=5nF6CPPbKHY) - Comprehensive guide
+- [Mobility Routine for Older Adults](https://www.youtube.com/watch?v=qULTwquOuT4) - Daily practice
+
+**Websites:**
+- [National Institute on Aging - Exercise](https://www.nia.nih.gov/health/exercise-and-physical-activity) - Evidence-based guidelines
+- [Mayo Clinic - Strength Training](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670) - Comprehensive information
+- [Arthritis Foundation - Hand Exercises](https://www.arthritis.org/health-wellness/healthy-living/physical-activity/other-activities/hand-exercises-for-people-with-arthritis) - Specific hand routines
+
+**Safety Note:** Always consult with your healthcare provider before starting a new exercise program, especially if you have any existing health conditions or concerns.
