@@ -275,18 +275,18 @@ Can be done anytime - while watching TV, during breaks, etc.
 
 **Squats and Variations:**
 - [Bodyweight Squats](https://www.youtube.com/watch?v=aclHkVaku9U) - Proper form tutorial
-- [Goblet Squats](https://www.youtube.com/watch?v=MeHQ_6R2f0M) - With dumbbell technique
+- [Goblet Squats](https://www.youtube.com/watch?v=qaQPfi8f5IQ) - With dumbbell technique (Athlean-X)
 - [Bulgarian Split Squats](https://www.youtube.com/watch?v=2C-uNgKwPLE) - Single-leg strength builder
-- [Deep Squat Hold](https://www.youtube.com/watch?v=xPwG2hqnOx0) - Mobility work
+- [Deep Squat Hold](https://www.youtube.com/watch?v=pZq9gKhBmGM) - Mobility work and technique
 - [Pistol Squat Progressions](https://www.youtube.com/watch?v=vq5-vdgJc0I) - Advanced single-leg
 
 **Lunges:**
 - [Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs) - Proper technique
-- [Reverse Lunges](https://www.youtube.com/watch?v=xXB0pz0xw-8) - Knee-friendly variation
+- [Reverse Lunges](https://www.youtube.com/watch?v=VqKDlqXqJKk) - Knee-friendly variation (Bodyweight)
 
 **Glutes and Hamstrings:**
 - [Glute Bridges](https://www.youtube.com/watch?v=wPM8icPu6H8) - Hip extension
-- [Single-Leg Romanian Deadlifts](https://www.youtube.com/watch?v=yQXnOuQqKYc) - Balance and strength
+- [Single-Leg Romanian Deadlifts](https://www.youtube.com/watch?v=3paMjYZGXpo) - Balance and strength (proper form)
 
 **Step-Ups:**
 - [Step-Ups Tutorial](https://www.youtube.com/watch?v=dQqApCGd5Ss) - Proper form
@@ -297,10 +297,10 @@ Can be done anytime - while watching TV, during breaks, etc.
 ### Floor-to-Stand Specific
 
 **Getting Up From Floor:**
-- [Floor-to-Stand Tutorial](https://www.youtube.com/watch?v=ZqvcZvHCbYo) - Multiple methods
+- [Floor-to-Stand Tutorial](https://www.youtube.com/watch?v=bTqNSgCmM2s) - Multiple methods (Bob & Brad)
 - [Turkish Get-Up](https://www.youtube.com/watch?v=0bWRPC49-KI) - Complete movement pattern
-- [Kneeling-to-Standing](https://www.youtube.com/watch?v=qLnwQh8Yx0g) - Key progression
-- [Sitting Rising Test](https://www.youtube.com/watch?v=5nF6CPPbKHY) - Assessment and practice
+- [Kneeling-to-Standing](https://www.youtube.com/watch?v=Ky7qPgqmLQE) - Key progression technique
+- [Sitting Rising Test](https://www.youtube.com/watch?v=ECXj6R8WcSY) - Assessment and practice (longevity predictor)
 
 ### Upper Body Exercises
 
@@ -309,7 +309,7 @@ Can be done anytime - while watching TV, during breaks, etc.
 - [Dumbbell Shoulder Press](https://www.youtube.com/watch?v=qEwKCR5JCog) - Overhead pressing
 
 **Pull Exercises:**
-- [Resistance Band Rows](https://www.youtube.com/watch?v=tZzbxS6bpRs) - Back strengthening
+- [Resistance Band Rows](https://www.youtube.com/watch?v=tqrlBHPZAI0) - Back strengthening (proper technique)
 - [Bent-Over Dumbbell Rows](https://www.youtube.com/watch?v=roCP6wCXPqo) - Proper technique
 
 **Arms:**
