@@ -274,87 +274,87 @@ Can be done anytime - while watching TV, during breaks, etc.
 ### Lower Body Exercises
 
 **Squats and Variations:**
-- [Bodyweight Squats](https://www.youtube.com/watch?v=aclHkVaku9U) - Proper form tutorial
-- [Goblet Squats](https://www.youtube.com/watch?v=qaQPfi8f5IQ) - With dumbbell technique (Athlean-X)
-- [Bulgarian Split Squats](https://www.youtube.com/watch?v=2C-uNgKwPLE) - Single-leg strength builder
-- [Deep Squat Hold](https://www.youtube.com/watch?v=pZq9gKhBmGM) - Mobility work and technique
-- [Pistol Squat Progressions](https://www.youtube.com/watch?v=vq5-vdgJc0I) - Advanced single-leg
+- [Bodyweight Squats - Proper Form](https://www.verywellfit.com/how-to-do-squats-3120598) - Step-by-step guide with images
+- [Goblet Squats Tutorial](https://www.menshealth.com/fitness/a19546029/goblet-squat/) - Men's Health guide
+- [Bulgarian Split Squats](https://www.acefitness.org/resources/everyone/exercise-library/135/bulgarian-split-squat/) - ACE Fitness guide
+- [Deep Squat Mobility](https://www.youtube.com/watch?v=zvGr7wXQfwE) - Squat University tutorial
+- [Pistol Squat Progressions](https://www.youtube.com/watch?v=t7Oj8-8Htyw) - GMB Fitness tutorial
 
 **Lunges:**
-- [Walking Lunges](https://www.youtube.com/watch?v=L8fvypPrzzs) - Proper technique
-- [Reverse Lunges](https://www.youtube.com/watch?v=VqKDlqXqJKk) - Knee-friendly variation (Bodyweight)
+- [Walking Lunges Guide](https://www.verywellfit.com/how-to-do-a-lunge-3120560) - Verywell Fit with images
+- [Reverse Lunges Tutorial](https://www.youtube.com/watch?v=xXB0pz0xw-8) - Proper form video
 
 **Glutes and Hamstrings:**
-- [Glute Bridges](https://www.youtube.com/watch?v=wPM8icPu6H8) - Hip extension
-- [Single-Leg Romanian Deadlifts](https://www.youtube.com/watch?v=3paMjYZGXpo) - Balance and strength (proper form)
+- [Glute Bridge Exercise](https://www.acefitness.org/resources/everyone/exercise-library/49/glute-bridge/) - ACE Fitness guide
+- [Single-Leg RDL Tutorial](https://www.youtube.com/watch?v=3paMjYZGXpo) - Proper balance technique
 
 **Step-Ups:**
-- [Step-Ups Tutorial](https://www.youtube.com/watch?v=dQqApCGd5Ss) - Proper form
+- [Step-Up Exercise Guide](https://www.verywellfit.com/how-to-do-step-ups-4589949) - Verywell Fit tutorial
 
 **Wall Sits:**
-- [Wall Sit Exercise](https://www.youtube.com/watch?v=y-wV4Venusw) - Isometric quad strength
+- [Wall Sit Exercise](https://www.verywellfit.com/how-to-do-the-wall-sit-exercise-3120846) - Complete guide
 
 ### Floor-to-Stand Specific
 
 **Getting Up From Floor:**
-- [Floor-to-Stand Tutorial](https://www.youtube.com/watch?v=bTqNSgCmM2s) - Multiple methods (Bob & Brad)
-- [Turkish Get-Up](https://www.youtube.com/watch?v=0bWRPC49-KI) - Complete movement pattern
-- [Kneeling-to-Standing](https://www.youtube.com/watch?v=Ky7qPgqmLQE) - Key progression technique
-- [Sitting Rising Test](https://www.youtube.com/watch?v=ECXj6R8WcSY) - Assessment and practice (longevity predictor)
+- [How to Get Up From Floor](https://www.youtube.com/watch?v=bTqNSgCmM2s) - Bob & Brad Physical Therapy
+- [Floor to Stand Methods](https://www.youtube.com/watch?v=ZqvcZvHCbYo) - Multiple techniques
+- [Turkish Get-Up Tutorial](https://www.youtube.com/watch?v=0bWRPC49-KI) - Complete breakdown
+- [Sitting Rising Test](https://www.bmj.com/content/345/bmj.e7457) - BMJ research article on longevity predictor
 
 ### Upper Body Exercises
 
 **Push Exercises:**
-- [Push-Ups Proper Form](https://www.youtube.com/watch?v=IODxDxX7oi4) - Standard and modifications
-- [Dumbbell Shoulder Press](https://www.youtube.com/watch?v=qEwKCR5JCog) - Overhead pressing
+- [Push-Up Tutorial](https://www.verywellfit.com/how-to-do-a-push-up-3120593) - All variations with images
+- [Dumbbell Shoulder Press](https://www.acefitness.org/resources/everyone/exercise-library/347/dumbbell-shoulder-press/) - ACE Fitness guide
 
 **Pull Exercises:**
-- [Resistance Band Rows](https://www.youtube.com/watch?v=tqrlBHPZAI0) - Back strengthening (proper technique)
-- [Bent-Over Dumbbell Rows](https://www.youtube.com/watch?v=roCP6wCXPqo) - Proper technique
+- [Resistance Band Rows](https://www.verywellfit.com/resistance-band-row-4589950) - Proper technique guide
+- [Bent-Over Dumbbell Rows](https://www.acefitness.org/resources/everyone/exercise-library/16/bent-over-row/) - ACE Fitness tutorial
 
 **Arms:**
-- [Bicep Curls](https://www.youtube.com/watch?v=ykJmrZ5v0Oo) - Proper form
-- [Tricep Extensions](https://www.youtube.com/watch?v=_gsUck-7M74) - Overhead variation
+- [Bicep Curls Guide](https://www.verywellfit.com/how-to-do-bicep-curls-3498281) - Proper form
+- [Tricep Extensions](https://www.acefitness.org/resources/everyone/exercise-library/133/overhead-triceps-extension/) - ACE Fitness guide
 
 ### Core Exercises
 
 **Stability Work:**
-- [Planks](https://www.youtube.com/watch?v=ASdvN_XEl_c) - Proper form and variations
-- [Bird Dogs](https://www.youtube.com/watch?v=wiFNA3sqjCA) - Core stability
-- [Dead Bugs](https://www.youtube.com/watch?v=4XLEnwUr1d8) - Anti-extension work
-- [Hollow Body Hold](https://www.youtube.com/watch?v=LlDNef_Ztsc) - Advanced core
+- [Plank Exercise Guide](https://www.verywellfit.com/the-plank-exercise-3120068) - All variations
+- [Bird Dog Exercise](https://www.verywellfit.com/how-to-do-the-bird-dog-exercise-3120726) - Step-by-step
+- [Dead Bug Exercise](https://www.verywellfit.com/how-to-do-the-dead-bug-exercise-4589949) - Core stability
+- [Hollow Body Hold](https://www.verywellfit.com/hollow-body-hold-5271159) - Advanced core work
 
 ### Balance Exercises
 
 **Balance Training:**
-- [Single-Leg Balance](https://www.youtube.com/watch?v=kFyZdV8VQv0) - Progressions
-- [Heel-to-Toe Walking](https://www.youtube.com/watch?v=VqKDlqXqJKk) - Balance and coordination
-- [Balance Exercises for Seniors](https://www.youtube.com/watch?v=wCLxt6vxLJM) - Comprehensive guide
+- [Single-Leg Balance Exercises](https://www.verywellfit.com/balance-exercises-for-seniors-4157925) - Senior-friendly progressions
+- [Balance Training Guide](https://www.nia.nih.gov/health/balance-exercises-older-adults) - National Institute on Aging
+- [Fall Prevention Exercises](https://www.cdc.gov/steadi/pdf/STEADI-Exercise-Brochure-508.pdf) - CDC guide (PDF)
 
 ### Hand Exercises
 
 **Hand Mobility and Strength:**
-- [Hand Exercises for Arthritis](https://www.youtube.com/watch?v=EiRC80FJbHU) - Stretching and strengthening
-- [Finger Stretches](https://www.youtube.com/watch?v=CLjtSyuE11I) - Flexibility work
-- [Grip Strengthening Exercises](https://www.youtube.com/watch?v=FGuVJAj96SE) - Various techniques
-- [Wrist Mobility Exercises](https://www.youtube.com/watch?v=mSZWSQSSEjE) - Range of motion
+- [Hand Exercises for Arthritis](https://www.arthritis.org/health-wellness/healthy-living/physical-activity/other-activities/hand-exercises-for-people-with-arthritis) - Arthritis Foundation
+- [Finger and Hand Stretches](https://www.verywellhealth.com/hand-exercises-for-arthritis-190155) - Verywell Health guide
+- [Grip Strength Exercises](https://www.healthline.com/health/hand-grip-exercises) - Healthline tutorial
+- [Wrist Mobility Exercises](https://www.verywellfit.com/wrist-stretches-and-exercises-3498726) - Complete guide
 
 ### Stretching and Mobility
 
 **Hip Mobility:**
-- [Hip Flexor Stretches](https://www.youtube.com/watch?v=UGEpQ1BRx-4) - Essential for floor-to-stand
-- [Deep Hip Stretches](https://www.youtube.com/watch?v=7Vpmgx_1KkQ) - Comprehensive routine
+- [Hip Flexor Stretches](https://www.verywellfit.com/hip-flexor-stretches-3120298) - Essential stretches
+- [Hip Mobility Routine](https://www.healthline.com/health/hip-mobility-exercises) - Healthline guide
 
 **Full Body:**
-- [Dynamic Stretching Routine](https://www.youtube.com/watch?v=3K6Fbf93u_g) - Pre-workout
-- [Static Stretching for Seniors](https://www.youtube.com/watch?v=g_tea8ZNk5A) - Post-workout
-- [Chair Yoga for Seniors](https://www.youtube.com/watch?v=KLbKM5m0f1g) - Gentle mobility
+- [Dynamic Stretching Guide](https://www.verywellfit.com/dynamic-stretching-3498617) - Pre-workout routine
+- [Static Stretching for Seniors](https://www.verywellfit.com/stretching-exercises-for-seniors-1231142) - Post-workout
+- [Chair Yoga Poses](https://www.verywellfit.com/chair-yoga-poses-3567189) - Gentle mobility
 
 ### Walking and Cardio
 
 **Walking Techniques:**
-- [Proper Walking Form](https://www.youtube.com/watch?v=ZXFDwJKxsJo) - Maximize benefits
-- [Interval Walking](https://www.youtube.com/watch?v=Ky7qPgqmLQE) - HIIT for walking
+- [Proper Walking Form](https://www.verywellfit.com/how-to-walk-for-fitness-3432766) - Maximize benefits
+- [Interval Walking Guide](https://www.verywellfit.com/interval-walking-workouts-3432766) - HIIT for walking
 
 ### Additional Resources
 
