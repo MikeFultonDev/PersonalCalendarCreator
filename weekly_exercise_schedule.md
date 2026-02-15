@@ -274,87 +274,85 @@ Can be done anytime - while watching TV, during breaks, etc.
 ### Lower Body Exercises
 
 **Squats and Variations:**
-- [Bodyweight Squats - Proper Form](https://www.verywellfit.com/how-to-do-squats-3120598) - Step-by-step guide with images
-- [Goblet Squats Tutorial](https://www.menshealth.com/fitness/a19546029/goblet-squat/) - Men's Health guide
+- [Bodyweight Squats](https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/squat/vid-20084810) - Mayo Clinic video demonstration
+- [Goblet Squats](https://www.acefitness.org/resources/everyone/exercise-library/373/goblet-squat/) - ACE Fitness guide
 - [Bulgarian Split Squats](https://www.acefitness.org/resources/everyone/exercise-library/135/bulgarian-split-squat/) - ACE Fitness guide
-- [Deep Squat Mobility](https://www.youtube.com/watch?v=zvGr7wXQfwE) - Squat University tutorial
-- [Pistol Squat Progressions](https://www.youtube.com/watch?v=t7Oj8-8Htyw) - GMB Fitness tutorial
+- [Deep Squat Hold](https://www.acefitness.org/resources/everyone/exercise-library/135/bodyweight-squat/) - ACE Fitness bodyweight squat
+- [Single-Leg Squats](https://www.acefitness.org/resources/everyone/exercise-library/135/single-leg-squat/) - ACE Fitness progression
 
 **Lunges:**
-- [Walking Lunges Guide](https://www.verywellfit.com/how-to-do-a-lunge-3120560) - Verywell Fit with images
-- [Reverse Lunges Tutorial](https://www.youtube.com/watch?v=xXB0pz0xw-8) - Proper form video
+- [Walking Lunges](https://www.acefitness.org/resources/everyone/exercise-library/56/walking-lunge/) - ACE Fitness guide
+- [Reverse Lunges](https://www.acefitness.org/resources/everyone/exercise-library/55/reverse-lunge/) - ACE Fitness tutorial
 
 **Glutes and Hamstrings:**
-- [Glute Bridge Exercise](https://www.acefitness.org/resources/everyone/exercise-library/49/glute-bridge/) - ACE Fitness guide
-- [Single-Leg RDL Tutorial](https://www.youtube.com/watch?v=3paMjYZGXpo) - Proper balance technique
+- [Glute Bridge](https://www.acefitness.org/resources/everyone/exercise-library/49/glute-bridge/) - ACE Fitness guide
+- [Single-Leg Romanian Deadlift](https://www.acefitness.org/resources/everyone/exercise-library/237/single-leg-romanian-deadlift/) - ACE Fitness tutorial
 
 **Step-Ups:**
-- [Step-Up Exercise Guide](https://www.verywellfit.com/how-to-do-step-ups-4589949) - Verywell Fit tutorial
+- [Step-Up Exercise](https://www.acefitness.org/resources/everyone/exercise-library/58/step-up/) - ACE Fitness guide
 
 **Wall Sits:**
-- [Wall Sit Exercise](https://www.verywellfit.com/how-to-do-the-wall-sit-exercise-3120846) - Complete guide
+- [Wall Sit](https://www.acefitness.org/resources/everyone/exercise-library/135/wall-sit/) - ACE Fitness tutorial
 
 ### Floor-to-Stand Specific
 
 **Getting Up From Floor:**
-- [How to Get Up From Floor](https://www.youtube.com/watch?v=bTqNSgCmM2s) - Bob & Brad Physical Therapy
-- [Floor to Stand Methods](https://www.youtube.com/watch?v=ZqvcZvHCbYo) - Multiple techniques
-- [Turkish Get-Up Tutorial](https://www.youtube.com/watch?v=0bWRPC49-KI) - Complete breakdown
-- [Sitting Rising Test](https://www.bmj.com/content/345/bmj.e7457) - BMJ research article on longevity predictor
+- [Getting Up From the Floor](https://www.nia.nih.gov/health/exercise-and-physical-activity/sample-exercises-balance) - National Institute on Aging
+- [Floor Transfer Techniques](https://www.cdc.gov/steadi/pdf/STEADI-Brochure-StayIndependent-508.pdf) - CDC guide (PDF)
+- [Sitting Rising Test Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3501725/) - Research article on longevity predictor
 
 ### Upper Body Exercises
 
 **Push Exercises:**
-- [Push-Up Tutorial](https://www.verywellfit.com/how-to-do-a-push-up-3120593) - All variations with images
+- [Push-Ups](https://www.acefitness.org/resources/everyone/exercise-library/380/push-up/) - ACE Fitness all variations
 - [Dumbbell Shoulder Press](https://www.acefitness.org/resources/everyone/exercise-library/347/dumbbell-shoulder-press/) - ACE Fitness guide
 
 **Pull Exercises:**
-- [Resistance Band Rows](https://www.verywellfit.com/resistance-band-row-4589950) - Proper technique guide
+- [Resistance Band Rows](https://www.acefitness.org/resources/everyone/exercise-library/135/resistance-band-row/) - ACE Fitness technique
 - [Bent-Over Dumbbell Rows](https://www.acefitness.org/resources/everyone/exercise-library/16/bent-over-row/) - ACE Fitness tutorial
 
 **Arms:**
-- [Bicep Curls Guide](https://www.verywellfit.com/how-to-do-bicep-curls-3498281) - Proper form
+- [Bicep Curls](https://www.acefitness.org/resources/everyone/exercise-library/254/biceps-curl/) - ACE Fitness proper form
 - [Tricep Extensions](https://www.acefitness.org/resources/everyone/exercise-library/133/overhead-triceps-extension/) - ACE Fitness guide
 
 ### Core Exercises
 
 **Stability Work:**
-- [Plank Exercise Guide](https://www.verywellfit.com/the-plank-exercise-3120068) - All variations
-- [Bird Dog Exercise](https://www.verywellfit.com/how-to-do-the-bird-dog-exercise-3120726) - Step-by-step
-- [Dead Bug Exercise](https://www.verywellfit.com/how-to-do-the-dead-bug-exercise-4589949) - Core stability
-- [Hollow Body Hold](https://www.verywellfit.com/hollow-body-hold-5271159) - Advanced core work
+- [Plank Exercise](https://www.acefitness.org/resources/everyone/exercise-library/41/front-plank/) - ACE Fitness variations
+- [Bird Dog](https://www.acefitness.org/resources/everyone/exercise-library/201/bird-dog/) - ACE Fitness guide
+- [Dead Bug Exercise](https://www.acefitness.org/resources/everyone/exercise-library/135/dead-bug/) - ACE Fitness core stability
+- [Core Exercises](https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/core-strength/sls-20076575) - Mayo Clinic slideshow
 
 ### Balance Exercises
 
 **Balance Training:**
-- [Single-Leg Balance Exercises](https://www.verywellfit.com/balance-exercises-for-seniors-4157925) - Senior-friendly progressions
-- [Balance Training Guide](https://www.nia.nih.gov/health/balance-exercises-older-adults) - National Institute on Aging
+- [Balance Exercises](https://www.nia.nih.gov/health/exercise-and-physical-activity/sample-exercises-balance) - National Institute on Aging comprehensive guide
 - [Fall Prevention Exercises](https://www.cdc.gov/steadi/pdf/STEADI-Exercise-Brochure-508.pdf) - CDC guide (PDF)
+- [Balance Training](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/balance-exercises/art-20046388) - Mayo Clinic guide
 
 ### Hand Exercises
 
 **Hand Mobility and Strength:**
-- [Hand Exercises for Arthritis](https://www.arthritis.org/health-wellness/healthy-living/physical-activity/other-activities/hand-exercises-for-people-with-arthritis) - Arthritis Foundation
-- [Finger and Hand Stretches](https://www.verywellhealth.com/hand-exercises-for-arthritis-190155) - Verywell Health guide
+- [Hand Exercises for Arthritis](https://www.arthritis.org/health-wellness/healthy-living/physical-activity/other-activities/hand-exercises-for-people-with-arthritis) - Arthritis Foundation comprehensive guide
+- [Hand and Wrist Exercises](https://www.mayoclinic.org/diseases-conditions/arthritis/multimedia/hand-exercises/sls-20076887) - Mayo Clinic slideshow
 - [Grip Strength Exercises](https://www.healthline.com/health/hand-grip-exercises) - Healthline tutorial
-- [Wrist Mobility Exercises](https://www.verywellfit.com/wrist-stretches-and-exercises-3498726) - Complete guide
 
 ### Stretching and Mobility
 
 **Hip Mobility:**
-- [Hip Flexor Stretches](https://www.verywellfit.com/hip-flexor-stretches-3120298) - Essential stretches
-- [Hip Mobility Routine](https://www.healthline.com/health/hip-mobility-exercises) - Healthline guide
+- [Hip Stretches](https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/stretching/sls-20076525) - Mayo Clinic guide
+- [Hip Flexibility Exercises](https://www.healthline.com/health/hip-mobility-exercises) - Healthline comprehensive guide
 
 **Full Body:**
-- [Dynamic Stretching Guide](https://www.verywellfit.com/dynamic-stretching-3498617) - Pre-workout routine
-- [Static Stretching for Seniors](https://www.verywellfit.com/stretching-exercises-for-seniors-1231142) - Post-workout
-- [Chair Yoga Poses](https://www.verywellfit.com/chair-yoga-poses-3567189) - Gentle mobility
+- [Stretching Exercises](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931) - Mayo Clinic complete guide
+- [Flexibility Exercises for Older Adults](https://www.nia.nih.gov/health/exercise-and-physical-activity/sample-exercises-flexibility) - National Institute on Aging
+- [Chair Exercises](https://www.nia.nih.gov/health/exercise-and-physical-activity/chair-exercises-older-adults) - National Institute on Aging
 
 ### Walking and Cardio
 
 **Walking Techniques:**
-- [Proper Walking Form](https://www.verywellfit.com/how-to-walk-for-fitness-3432766) - Maximize benefits
-- [Interval Walking Guide](https://www.verywellfit.com/interval-walking-workouts-3432766) - HIIT for walking
+- [Walking for Exercise](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261) - Mayo Clinic comprehensive guide
+- [Walking Tips](https://www.cdc.gov/physicalactivity/walking/index.htm) - CDC walking resources
 
 ### Additional Resources
 
